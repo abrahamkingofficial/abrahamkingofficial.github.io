@@ -73,5 +73,3 @@ Disallow: /
 
 User-agent: intelium_bot
 Disallow: /
-
-Sitemap: https://abrahamkingofficial.github.io/sitemap.xml
